@@ -14,7 +14,7 @@ double Tempf = atof(Tempc);
   
  Tempf = Tempf*9/5+32;
 
-     printf("%f is equivalent to %f\n ", atof(Tempc),Tempf);
+     printf("%f° is equivalent to %f°\n Fahrenheit. ", atof(Tempc),Tempf);
  
  return 0;
 
