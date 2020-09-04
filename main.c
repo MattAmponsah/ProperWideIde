@@ -1,5 +1,6 @@
-//Jordan Hill jlh7084@psu.edu
-//Josiah Harrison jeh6043@psu.edu
+// Author: Matt Amponsah mma6356@psu.edu
+// Collaborator: Jordan Hill jlh7084@psu.edu
+// Collaborator: Josiah Harrison jeh6043@psu.edu
 
 #include <stdio.h>
 #include <readline/readline.h>
